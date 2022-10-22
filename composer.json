@@ -1,0 +1,17 @@
+{
+    "name": "flor/qutrois",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "FlorianBetin",
+            "email": "florian.betin.pro@gmail.com"
+        }
+    ],
+    "require": {
+        "gipetto/cowsay": "^1.1"
+    }
+}
